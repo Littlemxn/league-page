@@ -7,6 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <p>League OGs: Ryan, Leo, Peter, Vernick, Gluck, Dom, Demarco, Eric, Hoffman, Pat </p>
+  <p>In memory of James and Braden</p>
   <p>Winners: </p>
   <p>2022: Vernick</p>
   <p>2023: Peter</p>
