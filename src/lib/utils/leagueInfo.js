@@ -28,7 +28,7 @@ export const managers = [
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "639390298463617024",
       "name": "Ryan",
-      "bio": "1x Champ (2021), Commissioner, League OG, Bijan Robinson enthusiast, Dom hater, Has made playoffs in every year of league history, inlcuding 4x semi final appearences (2019, 2020, 2021, 2022) and 2x final appearances (2019, 2021)",
+      "bio": "Commissioner, League OG, Tua hater, Dom hater, 2x semi finals appearance (2022, 2023)",
       "photo": "/managers/ryann.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -40,7 +40,7 @@ export const managers = [
       },
       "favoritePlayer": 9509, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-      "philosophy": "Zero RB, Jonathan Brooks legacy second half of season",
+      "philosophy": "Trade picks and let CeeDee carry, trade Tua to Demarco",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     }
